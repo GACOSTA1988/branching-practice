@@ -1,0 +1,17 @@
+#top {
+  background-color: blue;
+  text-align: center;
+}
+#top2 {
+  background-color: gray;
+  text-align: center;
+}
+.info {
+  text-align: center;
+}
+#ofage, #notofage {
+  display: none;
+  text-align: center;
+
+
+}
